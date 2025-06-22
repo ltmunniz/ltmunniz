@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Leonardo Muniz, a passionate software developer and tech enthusiast. I currently work as a  Senior Backend Developer at KaBuM! </br>
-With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
 
@@ -15,6 +15,6 @@ With over 4 years of experience in the field, I've had the opportunity to work o
 
 
 # 📊 GitHub Stats:
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leomunniz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomunniz&theme=tokyonight&layout=compact)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ltmunniz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltmunniz&theme=tokyonight&layout=compact)
 
